@@ -1,6 +1,6 @@
 # git_project
 
-A new Flutter project.
+Edspert Flutter Final Project Latihan Soal (LATSOL).
 
 ## Getting Started
 
